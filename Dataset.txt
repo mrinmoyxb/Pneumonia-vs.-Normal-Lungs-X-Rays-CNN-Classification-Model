@@ -1,0 +1,1 @@
+Link to kaggle dataset: https://www.kaggle.com/datasets/lasaljaywardena/pneumonia-chest-x-ray-dataset
